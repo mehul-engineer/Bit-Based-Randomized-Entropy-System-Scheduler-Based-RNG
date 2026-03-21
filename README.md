@@ -67,5 +67,5 @@ public class Main {
 }
 ```
 
-# Note on Security: While ingeniously designed, this system is a proof-of-concept and has not undergone formal cryptographic auditing. It is not recommended for use in commercial, high-security, or production cryptographic applications.
+Note on Security: While ingeniously designed, this system is a proof-of-concept and has not undergone formal cryptographic auditing. It is not recommended for use in commercial, high-security, or production cryptographic applications.
 
