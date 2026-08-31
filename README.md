@@ -44,7 +44,7 @@ Independently tested against **54 statistical tests** - NIST SP 800-22 (core + e
 
 | Metric | Result |
 |---|---|
-| Tests passed | **54 / 54** |
+| Tests passed | **53 / 54** |
 | Sample size | 31,377,615 bits · 100,000 integers |
 | Shannon entropy (8-bit) | 7.999952 / 8.0 |
 | SP 800-90B min-entropy | 0.4573 bits/bit *(bound by LRS estimator - same bound seen on a `numpy.random` control, i.e. expected estimator behavior, not a defect)* |
