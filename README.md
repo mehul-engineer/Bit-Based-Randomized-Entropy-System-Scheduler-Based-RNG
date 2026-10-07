@@ -90,7 +90,7 @@ src/
 │   └── workerProcess.java            - entropy-harvesting worker thread
 └── helperForFisherYatesBasedOnBBRESrNG/
     └── ...                          - shuffle RNG for G2, same corrected architecture
-docs/    - architecture notes & validation reports
+docs/    - architecture notes, form & validation reports
 LICENSE
 README.md
 ```
@@ -98,7 +98,3 @@ README.md
 ## Requirements
 
 Java 8+. No external dependencies.
-
-## Related
-
-* [BBRES-RNG (v1, original)](https://github.com/mehul-engineer/Bit-Based-Randomized-Entropy-System-Scheduler-Based-RNG) - prior architecture and validation report
